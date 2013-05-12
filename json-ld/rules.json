@@ -1,0 +1,37 @@
+{
+"@context": {
+	
+	 "rules": "http://rdf.data-vocabulary.org/#rules",
+	 "pattern": "http://rdf.data-vocabulary.org/#pattern",
+	 "rule": "http://rdf.data-vocabulary.org/#rule"
+	
+},
+
+"rules": 
+[
+{
+  "@context": {
+    "pattern": "http://xmlns.com/foaf/0.1/pattern",
+    "rule": "http://xmlns.com/foaf/0.1/rule"
+  },
+  "pattern": "Lawrence Hurley",
+  "rule": ["Reuters","transplanted Englishman"]
+},
+{
+  "@context": {
+    "pattern": "http://xmlns.com/foaf/0.1/pattern",
+    "rule": "http://xmlns.com/foaf/0.1/rule"
+  },
+  "pattern": "federal",
+  "rule": ["government"]
+},
+{
+  "@context": {
+    "pattern": "http://xmlns.com/foaf/0.1/pattern",
+    "rule": "http://xmlns.com/foaf/0.1/rule"
+  },
+  "pattern": "washington",
+  "rule": ["state"]
+}
+]
+}

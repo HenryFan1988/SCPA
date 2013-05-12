@@ -1,0 +1,11 @@
+<button type="submit" ng-click="delete()">Delete Database</button>
+
+<ul id="topic_list">
+	<li ng-repeat="topic in topics" itemscope itemtype="http://schema.org/Thing">
+		<label itemprop="name">{{topic.name}}</label>
+		<input type="range" min="0" max="5" ng-model="topic.range" ng-change="change()"/><span  itemprop="value">{{topic.range}}</span>
+	</li>	
+</ul>
+
+
+<button type="submit" ng-click="submit()">Confirm</button>

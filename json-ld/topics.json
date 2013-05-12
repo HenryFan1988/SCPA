@@ -1,0 +1,17 @@
+{
+"@context": {
+	
+	 "topics": "http://rdf.data-vocabulary.org/#topics",
+	 "name": "http://rdf.data-vocabulary.org/#name",
+	 "range": "http://rdf.data-vocabulary.org/#range"
+	
+},
+
+"topics": [
+  {"name":"World", "range": "0"},
+  {"name":"Australia", "range": "0"},
+  {"name":"Sport", "range": "0"},
+  {"name":"Technique", "range": "0"},
+  {"name":"Business", "range": "0"}
+]
+}

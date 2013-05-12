@@ -1,0 +1,32 @@
+<html ng-app="news">
+<head>
+    <title>Cloud-based Personalisation News application</title>
+    <script src="http://code.jquery.com/jquery-2.0.0b2.js" type="text/javascript"></script>
+
+    <link rel="stylesheet" type="text/css" href="styles/style.css" />
+    
+</script>
+</head>
+
+<body>
+    <h1>Cloud-based Personalisation News application</h1>
+    <section ng-controller="TopicController">
+    <progress id="loader" ng-class="{hidden: loader.hide}">{{loader.text}}</progress>
+        <ng-view></ng-view>
+    </section>
+
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.5/angular.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="libs/jquery.indexeddb.js"></script>
+<!--<script type="text/javascript" src="http://localhost:3001/socket.io/socket.io.js"></script>-->
+<script type="text/javascript" src="libs/jquery.microdata.js"></script>
+<script type="text/javascript" src="libs/jquery.microdata.json.js"></script>
+<script type="text/javascript" src="scripts/lib.js"></script>
+<script type="text/javascript" src="scripts/app.js"></script>
+<script type="text/javascript" src="scripts/modules/mapreduce.js"></script>
+<script type="text/javascript" src="scripts/modules/recommendation.js"></script>
+<script type="text/javascript" src="scripts/controllers.js"></script>
+<script type="text/javascript" src="scripts/model.js"></script>
+<script type="text/javascript" src="scripts/modules/synchronizer.js"></script>
+
+</body>
+</html>

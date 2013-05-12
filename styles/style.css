@@ -1,0 +1,20 @@
+h1 {
+	text-decoration:none;
+	color:#1970e9;
+}
+
+a {
+	text-decoration:underline;
+	margin:0 5px;
+	color:#f51a1a;
+}
+
+table a
+{
+   color: #0dbbfa;
+}
+
+.hidden
+{
+  display: none;
+}

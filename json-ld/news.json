@@ -1,0 +1,167 @@
+{
+"@context": {
+	
+	 "news": "http://rdf.data-vocabulary.org/#news",
+	 "title": "http://rdf.data-vocabulary.org/#title",
+	 "link": "http://rdf.data-vocabulary.org/#link",
+	 "brief": "http://rdf.data-vocabulary.org/#brief",
+	 "topic": "http://rdf.data-vocabulary.org/#topic"
+	
+},
+
+"news": [
+   {
+     "title":"Supreme Court, in next gay marriage case, eyes federal law", 
+     "link": "http://www.reuters.com/article/2013/03/27/us-usa-court-gaymarriage-idUSBRE92P04820130327", 
+     "brief": "By Lawrence Hurley. WASHINGTON | Wed Mar 27, 2013 1:01am EDT. WASHINGTON (Reuters) - For the second day running, the Supreme Court on Wednesday will confront the issue of gay marriage, hearing arguments on a U.S.",
+     "topic": "World"
+     
+   },
+   {
+     "title":"South Korea vows 'strong' retaliation", 
+     "link": "http://www.hindustantimes.com/world-news/RestOfAsia/South-Korea-vows-strong-retaliation/Article1-1035768.aspx", 
+     "brief": "South Korea's new president on Monday promised a strong military response to any North Korean provocation after Pyongyang announced that the two countries were now in a state of war.",
+     "topic": "World"
+     
+   },
+   {
+     "title":"Foreign women avoid India owing to sexual crimes: Survey", 
+     "link": "http://news.oneindia.in/2013/04/02/foreign-women-avoid-india-crime-survey-1184241.html", 
+     "brief": "New Delhi, Apr 1: Foreign women are avoiding trips to India as the country is increasingly making the headlines for offence against women, particularly rape, in news media across the world.",
+     "topic": "World"
+     
+   },
+   {
+     "title":"Easter road deaths 'three too many'", 
+     "link": "http://www.stuff.co.nz/national/8495632/Easter-road-deaths-three-too-many", 
+     "brief": "Last updated 05:00 02/04/2013. FAMILY SADNESS: Hannah Eaton, 25, and husband, rugby player Chris Eaton, with their daughter Layla.",
+     "topic": "World"
+     
+   },
+   {
+     "title":"Woman runs for election in Pakistan tribal area", 
+     "link": "http://www.guardian.co.uk/world/2013/apr/01/woman-election-pakistan-tribal-area", 
+     "brief": "For most women in Pakistan's war-torn and ultra-conservative frontier region, casting a vote in an election is an impossible dream, let alone standing as a candidate.",
+     "topic": "World"
+     
+   },
+     
+   {
+     "title":"Epilepsy discovery offers hope", 
+     "link": "http://www.brisbanetimes.com.au/national/epilepsy-discovery-offers-hope-20130401-2h2wk.html", 
+     "brief": "An Australian-led international research team has discovered a gene associated with the most common form of epilepsy, a discovery that will help with diagnosis and new treatments.",
+     "topic": "Australia"
+    },
+     {
+     "title":"Public servants tighten seatbelts to save $54m", 
+     "link": "http://www.theaustralian.com.au/national-affairs/treasury/public-servants-tighten-seatbelts-to-save-54m/story-fn59nsif-1226610499977", 
+     "brief": "PUBLIC servants have cut back on air travel, with expenses decreasing 22 per cent to just under $200 million over the first half of the 2012-13 financial year.",
+     "topic": "Australia"
+    },
+     {
+     "title":"Everywhere you look, Tony Abbott's on the rise", 
+     "link": "http://www.theaustralian.com.au/national-affairs/everywhere-you-look-abbotts-on-the-rise/story-fn59niix-1226610532769", 
+     "brief": "TONY Abbott has narrowed the gap on Julia Gillard as the nation's preferred prime minister among all groups and in all states in the opening months of the election year.",
+     "topic": "Australia"
+    },
+     {
+     "title":"Murder hunt crosses border", 
+     "link": "http://www.theaustralian.com.au/news/nation/murder-hunt-crosses-border/story-e6frg6nf-1226610492128", 
+     "brief": "QUEENSLAND police want to talk to a 45-year-old man who will face court in NSW this morning on traffic offences in connection with the murder of a child on Brisbane's northern outskirts on Saturday.",
+     "topic": "Australia"
+    },
+     {
+     "title":"Passengers stood by as Asian tourists were abused", 
+     "link": "http://news.google.com.au/news/url?sr=1&ct2=au%2F1_0_s_8_1_a&sa=t&usg=AFQjCNGhfmFHi4SqZPUAk2lde_FXCiwRiQ&cid=43982018445365&url=http%3A%2F%2Fwww.smh.com.au%2Fnsw%2Fpassengers-stood-by-as-asian-tourists-were-abused-20130401-2h30p.html&ei=buVZUbHDDovhlAX0iQE&sig2=0faiP0uFNLGus4BzVF1hpQ&rt=SECTION&vm=STANDARD&bvm=section&did=6231235731162711727&sid=en_au%3An&ssid=n", 
+     "brief": "A busload of people stood by as two Asian tourists were racially abused in the city on Easter Saturday, according to a woman who filmed the incident.",
+     "topic": "Australia"
+    },
+    {
+     "title":"One more rate cut to come but on Tuesday", 
+     "link": "http://www.skynews.com.au/businessnews/article.aspx?id=859617", 
+     "brief": "One more rate cut to come but on Tuesday. The good news is the economy is getting better. But the bad news is the central bank's interest rate cutting cycle is coming to an end.",
+     "topic": "Business"
+    },
+    {
+     "title":"Carbon tax to cost jobs: Rusal CEO", 
+     "link": "http://www.businessspectator.com.au/news/2013/4/2/policy-politics/carbon-tax-cost-jobs-rusal-ceo", 
+     "brief": "The chief executive of the world's largest aluminium company, Rusal, has slammed Labor's carbon tax, saying it will lead to higher energy costs and force manufacturing and minerals processing jobs offshore, according to The Australian.",
+     "topic": "Business"
+    },
+    {
+     "title":"Chinese factories rise but US manufacturing slows", 
+     "link": "http://www.reuters.com/article/2013/04/01/us-global-economy-idUSBRE9300B320130401", 
+     "brief": "By Steven C. Johnson and Koh Gui Qing. NEW YORK/BEIJING | Mon Apr 1, 2013 11:52am EDT. NEW YORK/BEIJING (Reuters) - Strong demand at home boosted activity at Chinese factories last month, but U.S.",
+     "topic": "Business"
+    },
+     {
+     "title":"Mergers at eight-year low", 
+     "link": "http://www.smh.com.au/business/mergers-at-eightyear-low-20130401-2h31n.html", 
+     "brief": "Mergers and acquisitions in Australia have slumped to an eight-year-low in the first quarter, led by a sharp fall in resources deals.",
+     "topic": "Business"
+    },
+    {
+     "title":"Pressured by China, Apple Apologizes for Warranty Policies", 
+     "link": "http://www.nytimes.com/2013/04/02/technology/apples-chief-tim-cook-apologizes-to-china-over-warranty-policy.html", 
+     "brief": "SHANGHAI - Apple's chief executive, Tim Cook, took the unusual step Monday of apologizing to Chinese customers over the company's warranty policy and said he would improve customer service in the country",
+     "topic": "Technology"
+    },
+    {
+     "title":"April Fools: YouTube shut down, Google adds smells", 
+     "link": "http://www.google.com/hostednews/ap/article/ALeqM5hHSNYISyT5bKbSF2LS1a3y0DPGig?docId=253fb0fee90944f49d78b979aa2b57a9", 
+     "brief": "NEW YORK (AP) - Twitter is doing away with vowels, Google has a 'smell button' and the cast of ‘Wings’ is launching a Kickstarter campaign.",
+     "topic": "Technology"
+    },
+    {
+     "title":"Facebook to put own spin on Android with 'new home,' report says", 
+     "link": "http://news.cnet.com/8301-1023_3-57577261-93/facebook-to-put-own-spin-on-android-with-new-home-report-says/", 
+     "brief": "A project apparently dubbed Facebook Home is a version of Android that will run on HTC devices and put the social network's features and apps front and center, according to 9to5Google.",
+     "topic": "Technology"
+    },
+    {
+     "title":"Apple's poker app may be illegal here", 
+     "link": "http://www.smh.com.au/technology/technology-news/apples-poker-app-may-be-illegal-here-20130331-2h1ev.html", 
+     "brief": "Apple Australia may be breaching federal online gambling laws by offering apps such as PokerStars which allow Australians to bet on casino style games with real money.",
+     "topic": "Technology"
+    },
+    {
+     "title":"Google Now can make the smart watch tick", 
+     "link": "http://news.google.com.au/news/url?sr=1&ct2=au%2F1_0_s_11_1_a&sa=t&usg=AFQjCNHkQSRYJXMvjh5KgniBh1XcES6fAw&cid=43982018072599&url=http%3A%2F%2Fwww.phonedog.com%2F2013%2F03%2F31%2Fgoogle-now-can-make-the-smart-watch-tick%2F&ei=euZZUYDSOIvhlAX0iQE&sig2=S2UualtBFNzouEfexMfkGA&rt=SECTION&vm=STANDARD&bvm=section&did=6893387100387665260&sid=en_au%3Atc&ssid=tc", 
+     "brief": "The smart watch has had a rough pre-release over the past few months. If there's anything we can learn from the great smart watch rumor mill, it's that the smart watch will have a rude kick-off when the first models enter the wearable tech scene later this year.",
+     "topic": "Technology"
+    },
+   {
+     "title":"Carlton-Collingwood rivalry now even bigger", 
+     "link": "http://www.theroar.com.au/2013/04/02/carlton-collingwood-rivalry-becomes-even-bigger/",
+     "brief": "At 3.00am Sunday 7th April, daylight savings will end in Melbourne. The clock will be set back one hour. Later that day Collingwood fans - in full voice as they gear up for their first game at the MCG this year - will turn back the clock on Michael Malthouse.",
+     "topic": "Sport"
+    },
+    {
+     "title":"Marriage equality: What harm can come?", 
+     "link": "http://www.stuff.co.nz/stuff-nation/assignments/share-your-news-and-views/8571460/Marriage-equality-What-harm-can-come",
+     "brief": "MP Louisa Wall celebrates winning the vote 77-44 at the last reading of the Marriage Equality Bill at Parliament. Related Links. What does marriage mean to you?",
+     "topic": "World"
+    },
+     {
+     "title":"Govt in good position on budget: Lundy - Brisbane Times", 
+     "link": "http://news.brisbanetimes.com.au/breaking-news-national/govt-in-good-position-on-budget-lundy-20130422-2i962.html",
+     "brief": "Federal government minister Kate Lundy says the federal government has been 'incredibly successful' managing the budget, despite tough economic times globally.",
+     "topic": "Australia"
+    },
+     {
+     "title":"ABC Business News and Market Analysis", 
+     "link": "http://www.abc.net.au/news/2013-04-22/abc-business-news-and-market-analysis/4642814?section=business",
+     "brief": "TO FINANCE AND A QUARTERLY REPORT ON AUSTRALIA'S STATE AND TERRITORY ECONOMIES SHOWS THE GAP BETWEEN THE BEST AND WORST PEFORMERS IS WIDENING.",
+     "topic": "Business"
+    },
+     {
+     "title":"Luis Suarez apologises for biting Chelsea player Branislav Ivanovic", 
+     "link": "http://www.theaustralian.com.au/sport/football/luis-suarez-apologises-for-biting-chelsea-player-branislav-ivanovic/story-fn63e0vj-1226625625639",
+     "brief": "LIVERPOOL striker Luis Suarez has apologised for biting Chelsea defender Branislav Ivanovic during the sides' 2-2 Premier League draw at Anfield.",
+     "topic": "Sport"
+    }
+    
+    
+    
+]
+}

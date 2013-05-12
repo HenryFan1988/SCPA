@@ -1,0 +1,7 @@
+<ul id="news_feed">
+	<li ng-repeat="news in feed" itemscope itemtype="http://www.schema.org/NewsArticle">
+		<h2 itemprop="name"><a href="{{news.link}}" target="_blank" ng-click="click(this)" itemprop="url">{{news.title}}</a><span>{{news.score}}</span></h2>
+		<p itemprop="description">{{news.description}}</p>
+	</li>	
+</ul>
+<button type="submit" ng-click="back()">Return</button>
